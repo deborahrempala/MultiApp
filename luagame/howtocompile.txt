@@ -1,0 +1,8 @@
+How to compile
+just type 
+lua main.lua
+
+my extra feature was it randomly decides if the bomb goes.
+It takes a random number between 1 and 3.
+if its 1 or 2, you don't set the bomb off.
+if its 3 you win the game! 
