@@ -1,0 +1,7 @@
+dogs.txt 2
+classified.txt 10
+books.txt 6
+easy.txt 0
+frog.txt 5
+momjokes.txt 2
+grades.txt 1
